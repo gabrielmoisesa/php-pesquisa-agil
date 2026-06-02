@@ -6,7 +6,6 @@
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.5-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Status](https://img.shields.io/badge/Status-Concluído-28a745?style=for-the-badge)](https://github.com/gabrielmoisesa/php-pesquisa-agil)
-[![License](https://img.shields.io/badge/Licença-Acadêmica-blue?style=for-the-badge)](./LICENSE)
 
 > Repositório de pesquisa sobre a linguagem PHP, desenvolvido como atividade prática da disciplina de Tópicos Essenciais para Programação. O projeto aplica conceitos de divisão de tarefas, rastreamento de progresso e entrega incremental em equipe.
 
